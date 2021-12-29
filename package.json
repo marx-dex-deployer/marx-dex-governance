@@ -1,8 +1,7 @@
 {
-  "name": "@uniswap/governance",
+  "name": "@marx-dex/marx-dex-governance",
   "version": "1.0.2",
-  "description": "🏛 Governance contracts for the Uniswap protocol",
-  "author": "Noah Zinsmeister",
+  "description": "🏛 Governance contracts for the MarX Decentralized Exchange protocol",
   "license": "MIT",
   "files": [
     "build"
@@ -18,7 +17,7 @@
   "devDependencies": {
     "@types/chai": "^4.2.12",
     "@types/mocha": "^8.0.3",
-    "@uniswap/v2-core": "^1.0.1",
+    "@marx-dex/marx-dex-v2-core": "^1.0.1",
     "chai": "^4.2.0",
     "ethereum-waffle": "^3.1.0",
     "ethereumjs-util": "^7.0.4",

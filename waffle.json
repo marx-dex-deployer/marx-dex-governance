@@ -2,6 +2,7 @@
   "compilerType": "solcjs",
   "compilerVersion": "./node_modules/solc",
   "outputType": "all",
+  "sourceDirectory": "/home/marx/marx-dex/marx-dex-governance/contracts/",
   "compilerOptions": {
     "outputSelection": {
       "*": {
@@ -10,8 +11,7 @@
           "evm.deployedBytecode.object",
           "abi",
           "evm.bytecode.sourceMap",
-          "evm.deployedBytecode.sourceMap",
-          "metadata"
+          "evm.deployedBytecode.sourceMap"
         ],
         "": ["ast"]
       }
